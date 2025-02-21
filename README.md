@@ -14,4 +14,6 @@ Saya Muhammad Igin Adigholib dengan NIM 2301125 mengerjakan Laporan Praktikum 1 
 ![](JAVA/Tp1java3.png)
 
 # Dokumentasi PYTHON
-![](PYTHON/Tp1python1.png)
+![](PHYTON/Tp1python1.png)
+![](PHYTON/Tp1python2.png)
+![](PHYTON/Tp1python3.png)
