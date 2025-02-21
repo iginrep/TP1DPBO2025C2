@@ -9,4 +9,6 @@ Saya Muhammad Igin Adigholib dengan NIM 2301125 mengerjakan Laporan Praktikum 1 
 ![Dokumentasi](CPP/Dokumentasi/3latmodul1.png)
 
 # Dokumentasi JAVA
-
+![](JAVA/Tp1java1.png)
+![](JAVA/Tp1java2.png)
+![](JAVA/Tp1java3.png)
